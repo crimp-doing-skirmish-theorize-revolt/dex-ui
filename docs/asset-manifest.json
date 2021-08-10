@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.f440a6db.chunk.css",
-    "main.js": "./static/js/main.55bd0aa3.chunk.js",
+    "main.js": "./static/js/main.bd8b9e05.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css": "./static/css/2.3895751f.chunk.css",
-    "static/js/2.89cee123.chunk.js": "./static/js/2.89cee123.chunk.js",
+    "static/js/2.fd8b415d.chunk.js": "./static/js/2.fd8b415d.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.8f76f45b6c5c8e7afb82884a53796c87.js": "./precache-manifest.8f76f45b6c5c8e7afb82884a53796c87.js",
+    "precache-manifest.f9b556182cb10fd0b73bb62b572fc16e.js": "./precache-manifest.f9b556182cb10fd0b73bb62b572fc16e.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.89cee123.chunk.js.LICENSE.txt": "./static/js/2.89cee123.chunk.js.LICENSE.txt",
+    "static/js/2.fd8b415d.chunk.js.LICENSE.txt": "./static/js/2.fd8b415d.chunk.js.LICENSE.txt",
     "static/media/1inch.png": "./static/media/1inch.04624784.png",
     "static/media/aave.svg": "./static/media/aave.9c2f9057.svg",
     "static/media/ape-szn-hoodie.jpg": "./static/media/ape-szn-hoodie.c73349b1.jpg",
@@ -18,6 +18,7 @@
     "static/media/cn.svg": "./static/media/cn.aa1c8ecd.svg",
     "static/media/comp.svg": "./static/media/comp.ee2944d3.svg",
     "static/media/cope.png": "./static/media/cope.190104cf.png",
+    "static/media/dxl.png": "./static/media/dxl.605c9bd6.png",
     "static/media/ecosystem-pool.png": "./static/media/ecosystem-pool.5d33d61d.png",
     "static/media/es.svg": "./static/media/es.afff2473.svg",
     "static/media/fab.png": "./static/media/fab.35ec5a05.png",
@@ -36,6 +37,7 @@
     "static/media/mer-vc.png": "./static/media/mer-vc.b1e329f2.png",
     "static/media/msrm.svg": "./static/media/msrm.878409d2.svg",
     "static/media/nibbio-logo.png": "./static/media/nibbio-logo.214060df.png",
+    "static/media/orca.svg": "./static/media/orca.1ef55f8f.svg",
     "static/media/oxy.svg": "./static/media/oxy.35fcc73e.svg",
     "static/media/oxy_terms.pdf": "./static/media/oxy_terms.30df9532.pdf",
     "static/media/paxg.svg": "./static/media/paxg.f373081c.svg",
@@ -56,8 +58,8 @@
   "entrypoints": [
     "static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css",
-    "static/js/2.89cee123.chunk.js",
+    "static/js/2.fd8b415d.chunk.js",
     "static/css/main.f440a6db.chunk.css",
-    "static/js/main.55bd0aa3.chunk.js"
+    "static/js/main.bd8b9e05.chunk.js"
   ]
 }
