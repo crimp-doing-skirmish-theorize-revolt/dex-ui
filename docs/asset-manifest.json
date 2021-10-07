@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.f440a6db.chunk.css",
-    "main.js": "./static/js/main.753ecb83.chunk.js",
+    "main.js": "./static/js/main.bc6a92d6.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css": "./static/css/2.3895751f.chunk.css",
-    "static/js/2.edc7f58e.chunk.js": "./static/js/2.edc7f58e.chunk.js",
+    "static/js/2.6db542fa.chunk.js": "./static/js/2.6db542fa.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.85a5d53601218febece0ed9464704695.js": "./precache-manifest.85a5d53601218febece0ed9464704695.js",
+    "precache-manifest.c7573424d282bd5ff12b6413ac7731c4.js": "./precache-manifest.c7573424d282bd5ff12b6413ac7731c4.js",
     "service-worker.js": "./service-worker.js",
-    "static/js/2.edc7f58e.chunk.js.LICENSE.txt": "./static/js/2.edc7f58e.chunk.js.LICENSE.txt",
+    "static/js/2.6db542fa.chunk.js.LICENSE.txt": "./static/js/2.6db542fa.chunk.js.LICENSE.txt",
     "static/media/1inch.png": "./static/media/1inch.04624784.png",
     "static/media/aave.svg": "./static/media/aave.9c2f9057.svg",
     "static/media/ape-szn-hoodie.jpg": "./static/media/ape-szn-hoodie.c73349b1.jpg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.17bdf1eb.js",
     "static/css/2.3895751f.chunk.css",
-    "static/js/2.edc7f58e.chunk.js",
+    "static/js/2.6db542fa.chunk.js",
     "static/css/main.f440a6db.chunk.css",
-    "static/js/main.753ecb83.chunk.js"
+    "static/js/main.bc6a92d6.chunk.js"
   ]
 }
